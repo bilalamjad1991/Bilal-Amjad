@@ -1,0 +1,46 @@
+
+<div class="row bg-1">
+    <div class="col-sm-offset-3 col-sm-6">
+        <div class="alert alert-danger alert-dismissable" ng-show="show_error_alert">
+            <a class="close" data-dismiss="alert" aria-label="close">×</a>
+            <strong>Error!</strong> {{error_message}}.
+        </div>
+        <div class="">
+            
+            <div class="panel-body">
+                <form id="signup-form" class="form-horizontal" ng-submit="SignupSubmit()">
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="first_name">First Name</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="first_name" placeholder="Enter First Name" ng-model="new_account.first_name">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="last_name">Last Name</label>
+                        <div class="col-sm-10">
+                            <input type="text" class="form-control" id="last_name" placeholder="Enter Last Name" ng-model="new_account.last_name">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="balance">Balance</label>
+                        <div class="col-sm-10">
+                            <input type="number" class="form-control" id="balance" placeholder="Enter Initial Balance" ng-model="new_account.balance">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="control-label col-sm-2" for="pwd">Password</label>
+                        <div class="col-sm-10">
+                            <input type="password" class="form-control" id="pwd" placeholder="Enter password" ng-model="new_account.password">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-sm-offset-2 col-sm-10">
+                            <button type="submit" class="btn btn-primary">Sign Up!</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
