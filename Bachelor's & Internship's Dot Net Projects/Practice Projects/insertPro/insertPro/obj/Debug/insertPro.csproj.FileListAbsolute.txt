@@ -1,0 +1,5 @@
+c:\users\bilal\documents\visual studio 2010\Projects\insertPro\insertPro\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2010\Projects\insertPro\insertPro\bin\insertPro.dll
+c:\users\bilal\documents\visual studio 2010\Projects\insertPro\insertPro\bin\insertPro.pdb
+c:\users\bilal\documents\visual studio 2010\Projects\insertPro\insertPro\obj\Debug\insertPro.dll
+c:\users\bilal\documents\visual studio 2010\Projects\insertPro\insertPro\obj\Debug\insertPro.pdb

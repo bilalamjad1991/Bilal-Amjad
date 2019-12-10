@@ -1,0 +1,22 @@
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\obj\x86\Debug\implementationof_circle_class.Form1.resources
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\obj\x86\Debug\implementationof_circle_class.Resources.resources
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\bin\Debug\implementationof circle class.exe
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\bin\Debug\implementationof circle class.pdb
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\bin\Debug\implementationof circle class.xml
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\obj\x86\Debug\implementationof circle class.exe
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\obj\x86\Debug\implementationof circle class.xml
+C:\Users\BILAL\AppData\Local\Temporary Projects\implementationof circle class\obj\x86\Debug\implementationof circle class.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\obj\x86\Debug\implementationof circle class.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\obj\x86\Debug\implementationof circle class.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\obj\x86\Debug\implementationof circle class.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\bin\Debug\implementationof circle class.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\bin\Debug\implementationof circle class.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\bin\Debug\implementationof circle class.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\obj\x86\Debug\implementationof_circle_class.Form1.resources
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\obj\x86\Debug\implementationof_circle_class.Resources.resources
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\implementationof circle class\implementationof circle class\obj\x86\Debug\GenerateResource.write.1.tlog

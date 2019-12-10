@@ -1,0 +1,5 @@
+c:\users\bilal\documents\visual studio 2010\Projects\pioneer\pioneer\bin\pioneer.dll
+c:\users\bilal\documents\visual studio 2010\Projects\pioneer\pioneer\bin\pioneer.pdb
+c:\users\bilal\documents\visual studio 2010\Projects\pioneer\pioneer\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2010\Projects\pioneer\pioneer\obj\Debug\pioneer.dll
+c:\users\bilal\documents\visual studio 2010\Projects\pioneer\pioneer\obj\Debug\pioneer.pdb

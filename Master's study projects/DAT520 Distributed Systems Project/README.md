@@ -1,0 +1,1 @@
+This project consists of four labs which makes up a distributed bank application based on multi-paxos algorithm. For back-end, I have used GO language and for front-end, I have used HTML, CSS, AngularJS and Node.js

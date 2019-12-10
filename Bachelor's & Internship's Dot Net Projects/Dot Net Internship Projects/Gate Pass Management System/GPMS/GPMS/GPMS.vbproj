@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{15BF37F9-D6D4-49DF-B9AA-052FEBA18490}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GPMS.My.MyApplication</StartupObject>
+    <RootNamespace>GPMS</RootNamespace>
+    <AssemblyName>GPMS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GPMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GPMS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Custom-Icon-Design-Pretty-Office-3-Ordering ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\DAL.vb" />
+    <Compile Include="Classes\QueryBuilder.vb" />
+    <Compile Include="DailyInwardReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyInwardReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DailyOutwardReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyOutwardReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DateToDateInwardReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DateToDateInwardReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DateToDateOutwardReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DateToDateOutwardReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDatabaseBackupRestore.Designer.vb">
+      <DependentUpon>frmDatabaseBackupRestore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDatabaseBackupRestore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInwardFind.Designer.vb">
+      <DependentUpon>frmInwardFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInwardFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInwardGatePass.Designer.vb">
+      <DependentUpon>frmInwardGatePass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInwardGatePass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDeliveryChallanFind.designer.vb">
+      <DependentUpon>frmDeliveryChallanFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDeliveryChallanFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmApprovedIndentFind.designer.vb">
+      <DependentUpon>frmApprovedIndentFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmApprovedIndentFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAllItemsShort.designer.vb">
+      <DependentUpon>frmAllItemsShort.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAllItemsShort.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmApproveIndent.Designer.vb">
+      <DependentUpon>frmApproveIndent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmApproveIndent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmChangePassword.designer.vb">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDeliveryChallan.Designer.vb">
+      <DependentUpon>frmDeliveryChallan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDeliveryChallan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDepartments.designer.vb">
+      <DependentUpon>frmDepartments.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDepartments.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIndent.Designer.vb">
+      <DependentUpon>frmIndent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmIndent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmIndentFind.designer.vb">
+      <DependentUpon>frmIndentFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmIndentFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmItemCategories.designer.vb">
+      <DependentUpon>frmItemCategories.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmItemCategories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmItemDetail.designer.vb">
+      <DependentUpon>frmItemDetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmItemDetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmItems.designer.vb">
+      <DependentUpon>frmItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmItemsAdd.designer.vb">
+      <DependentUpon>frmItemsAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmItemsAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmItemUnits.designer.vb">
+      <DependentUpon>frmItemUnits.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmItemUnits.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLogin.designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOutwardGatePass.Designer.vb">
+      <DependentUpon>frmOutwardGatePass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOutwardGatePass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOutwardGatePassFind.Designer.vb">
+      <DependentUpon>frmOutwardGatePassFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOutwardGatePassFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmReport.Designer.vb">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSections.designer.vb">
+      <DependentUpon>frmSections.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSections.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSendEmail.designer.vb">
+      <DependentUpon>frmSendEmail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSendEmail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSplash.Designer.vb">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSplash.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSRNFind.Designer.vb">
+      <DependentUpon>frmSRNFind.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSRNFind.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmStoreReceiptNote.Designer.vb">
+      <DependentUpon>frmStoreReceiptNote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmStoreReceiptNote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmUsers1.designer.vb">
+      <DependentUpon>frmUsers1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmUsers1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmVendors.designer.vb">
+      <DependentUpon>frmVendors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmVendors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDailyInwardReport.Designer.vb">
+      <DependentUpon>frmDailyInwardReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDailyInwardReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDailyOutwardReport.Designer.vb">
+      <DependentUpon>frmDailyOutwardReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDailyOutwardReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDateToDateInwardReport.Designer.vb">
+      <DependentUpon>frmDateToDateInwardReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDateToDateInwardReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDateToDateOutwardReport.Designer.vb">
+      <DependentUpon>frmDateToDateOutwardReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDateToDateOutwardReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmItemWiseInwardReport.Designer.vb">
+      <DependentUpon>frmItemWiseInwardReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmItemWiseInwardReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmItemWiseOutwardReport.Designer.vb">
+      <DependentUpon>frmItemWiseOutwardReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmItemWiseOutwardReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemWiseInwardReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ItemWiseInwardReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ItemWiseOutwardReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ItemWiseOutwardReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\frmLocationsReport.Designer.vb">
+      <DependentUpon>frmLocationsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmLocationsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmSupplierWiseInwardReport.Designer.vb">
+      <DependentUpon>frmSupplierWiseInwardReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmSupplierWiseInwardReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\SupplierWiseInwardReport.vb">
+      <DependentUpon>SupplierWiseInwardReport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reports\LocationsReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocationsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\frmItemsReport.Designer.vb">
+      <DependentUpon>frmItemsReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmItemsReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\frmSuppliersReport.Designer.vb">
+      <DependentUpon>frmSuppliersReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\frmSuppliersReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ItemsReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ItemsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Modules\ComboValuePair.vb" />
+    <Compile Include="Modules\Company.vb" />
+    <Compile Include="Modules\CurrentUser.vb" />
+    <Compile Include="Modules\Encrypt.vb" />
+    <Compile Include="Modules\Globalinfo.vb" />
+    <Compile Include="Modules\modShifts.vb" />
+    <Compile Include="Modules\modTSC.vb" />
+    <Compile Include="Modules\QueryMaker.vb" />
+    <Compile Include="Modules\Settings.vb" />
+    <Compile Include="Modules\Utility.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reports\rptDeliveryChallan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptDeliveryChallan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptIndent.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptIndent.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\SuppliersReport.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SuppliersReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DailyInwardReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DailyInwardReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyOutwardReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DailyOutwardReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateToDateInwardReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DateToDateInwardReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateToDateOutwardReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DateToDateOutwardReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDatabaseBackupRestore.resx">
+      <DependentUpon>frmDatabaseBackupRestore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInwardFind.resx">
+      <DependentUpon>frmInwardFind.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInwardGatePass.resx">
+      <DependentUpon>frmInwardGatePass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDeliveryChallanFind.resx">
+      <DependentUpon>frmDeliveryChallanFind.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmApprovedIndentFind.resx">
+      <DependentUpon>frmApprovedIndentFind.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAllItemsShort.resx">
+      <DependentUpon>frmAllItemsShort.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmApproveIndent.resx">
+      <DependentUpon>frmApproveIndent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDeliveryChallan.resx">
+      <DependentUpon>frmDeliveryChallan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDepartments.resx">
+      <DependentUpon>frmDepartments.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIndent.resx">
+      <DependentUpon>frmIndent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmIndentFind.resx">
+      <DependentUpon>frmIndentFind.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmItemCategories.resx">
+      <DependentUpon>frmItemCategories.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmItemDetail.resx">
+      <DependentUpon>frmItemDetail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmItems.resx">
+      <DependentUpon>frmItems.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmItemsAdd.resx">
+      <DependentUpon>frmItemsAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmItemUnits.resx">
+      <DependentUpon>frmItemUnits.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOutwardGatePass.resx">
+      <DependentUpon>frmOutwardGatePass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOutwardGatePassFind.resx">
+      <DependentUpon>frmOutwardGatePassFind.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmReport.resx">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSections.resx">
+      <DependentUpon>frmSections.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSendEmail.resx">
+      <DependentUpon>frmSendEmail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSplash.resx">
+      <DependentUpon>frmSplash.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSRNFind.resx">
+      <DependentUpon>frmSRNFind.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmStoreReceiptNote.resx">
+      <DependentUpon>frmStoreReceiptNote.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmUsers1.resx">
+      <DependentUpon>frmUsers1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmVendors.resx">
+      <DependentUpon>frmVendors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSettings.resx">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDailyInwardReport.resx">
+      <DependentUpon>frmDailyInwardReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDailyOutwardReport.resx">
+      <DependentUpon>frmDailyOutwardReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDateToDateInwardReport.resx">
+      <DependentUpon>frmDateToDateInwardReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDateToDateOutwardReport.resx">
+      <DependentUpon>frmDateToDateOutwardReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmItemWiseInwardReport.resx">
+      <DependentUpon>frmItemWiseInwardReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmItemWiseOutwardReport.resx">
+      <DependentUpon>frmItemWiseOutwardReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemWiseInwardReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ItemWiseInwardReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemWiseOutwardReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ItemWiseOutwardReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmLocationsReport.resx">
+      <DependentUpon>frmLocationsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmSupplierWiseInwardReport.resx">
+      <DependentUpon>frmSupplierWiseInwardReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\SupplierWiseInwardReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SupplierWiseInwardReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\LocationsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LocationsReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmItemsReport.resx">
+      <DependentUpon>frmItemsReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\frmSuppliersReport.resx">
+      <DependentUpon>frmSuppliersReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ItemsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ItemsReport.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptDeliveryChallan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptDeliveryChallan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptIndent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptIndent.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\SuppliersReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SuppliersReport.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Login\Lock-Lock-icon 24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Login\Lock-Lock-icon 48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Login\Lock-Unlock-icon24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\Login\Lock-Unlock-icon48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Custom-Icon-Design-Pretty-Office-3-Ordering ICON.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Outlook">
+      <Guid>{00062FFF-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>9</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

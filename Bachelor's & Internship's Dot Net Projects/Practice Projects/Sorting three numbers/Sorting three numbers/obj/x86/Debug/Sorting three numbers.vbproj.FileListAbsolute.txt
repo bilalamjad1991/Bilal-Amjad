@@ -1,0 +1,22 @@
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\obj\x86\Debug\Sorting_three_numbers.Form1.resources
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\obj\x86\Debug\Sorting_three_numbers.Resources.resources
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\bin\Debug\Sorting three numbers.exe
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\bin\Debug\Sorting three numbers.pdb
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\bin\Debug\Sorting three numbers.xml
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\obj\x86\Debug\Sorting three numbers.exe
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\obj\x86\Debug\Sorting three numbers.xml
+C:\Users\BILAL\AppData\Local\Temporary Projects\Sorting three numbers\obj\x86\Debug\Sorting three numbers.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\obj\x86\Debug\Sorting three numbers.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\obj\x86\Debug\Sorting three numbers.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\obj\x86\Debug\Sorting three numbers.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\bin\Debug\Sorting three numbers.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\bin\Debug\Sorting three numbers.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\bin\Debug\Sorting three numbers.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\obj\x86\Debug\Sorting_three_numbers.Form1.resources
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\obj\x86\Debug\Sorting_three_numbers.Resources.resources
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Sorting three numbers\Sorting three numbers\obj\x86\Debug\GenerateResource.write.1.tlog

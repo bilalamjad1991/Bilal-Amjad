@@ -1,0 +1,10 @@
+C:\Users\Waqar\Documents\Visual Studio 2010\Projects\logins\logins\bin\logins.dll
+C:\Users\Waqar\Documents\Visual Studio 2010\Projects\logins\logins\bin\logins.pdb
+C:\Users\Waqar\Documents\Visual Studio 2010\Projects\logins\logins\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Waqar\Documents\Visual Studio 2010\Projects\logins\logins\obj\Debug\logins.dll
+C:\Users\Waqar\Documents\Visual Studio 2010\Projects\logins\logins\obj\Debug\logins.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\logins\logins\bin\logins.dll
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\logins\logins\bin\logins.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\logins\logins\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\logins\logins\obj\Debug\logins.dll
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\logins\logins\obj\Debug\logins.pdb

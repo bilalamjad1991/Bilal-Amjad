@@ -1,0 +1,232 @@
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\bin\Release\SciTechManagement.exe.config
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\bin\Release\SciTechManagement.exe
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\bin\Release\SciTechManagement.pdb
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Admin.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.CRM.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.CustomerDetails.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.CustomerList.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Inventory.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.OrderForm.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.PackageDetails.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Properties.Resources.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.AboutSciTech.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCard.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Warehouse.InwardGatePass.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Warehouse.OutwardGatePass.resources
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\RdlCompile.cache
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\RdlCompile.compiled
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.exe
+C:\Users\Waqar\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.pdb
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\bin\Release\SciTechManagement.exe.config
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.exe
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.pdb
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Admin.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.CRM.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.CustomerDetails.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.CustomerList.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Inventory.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.OrderForm.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.PackageDetails.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.AboutSciTech.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCard.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Warehouse.InwardGatePass.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Warehouse.OutwardGatePass.resources
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.csproj.GenerateResource.Cache
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\RdlCompile.cache
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\obj\Release\RdlCompile.compiled
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\bin\Release\Inventory.accdb
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\bin\Release\SciTechManagement.exe
+C:\Users\Microsoft\Desktop\SciTechManagement\SciTechManagement\bin\Release\SciTechManagement.pdb
+D:\SciTechManagement\SciTechManagement\bin\Release\SciTechManagement.exe.config
+D:\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.exe
+D:\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.pdb
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\ResolveAssemblyReference.cache
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.IGPReport.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.OGPReport.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.OrderFormReport.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\GenerateResource.read.1.tlog
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\GenerateResource.write.1.tlog
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.DeliveryReport.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.List.IGPList.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.List.OGPList.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.List.OrderdList.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.AttendanceForm.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Attendance.Attendance.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.Database_Backup.DatabaseBackup.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.PayRoll.BonusAndCommision.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Department.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Employee.resources
+C:\Users\WAQAR\Desktop\SciTechManagement\SciTechManagement\obj\Release\SciTechManagement.PayRoll.GrossSalary.resources
+C:\Users\WAQAR\Desktop\SciTechManagementbilal\SciTechManagement\bin\Release\SciTechManagement.exe.config
+C:\Users\WAQAR\Desktop\SciTechManagementbilal\SciTechManagement\obj\Release\SciTechManagement.exe
+C:\Users\WAQAR\Desktop\SciTechManagementbilal\SciTechManagement\obj\Release\SciTechManagement.pdb
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\bin\Release\SciTechManagement.exe.config
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\bin\Release\SciTechManagement.exe
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\bin\Release\SciTechManagement.pdb
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Accounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.AddAccounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.AddTitle.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Admin.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.AttendanceForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Attendance.Attendance.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.CreateAccounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.CreateTitle.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.CRM.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.CustomerDetails.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.CustomerList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Database_Backup.DatabaseBackup.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.DeliveryReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.IGPReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Inventory.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.IGPList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.OGPList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.OrderdList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.OGPReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.OrderForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.OrderFormReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.PackageDetails.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.BonusAndCommision.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Department.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Employee.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.GrossSalary.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Properties.Resources.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.AboutSciTech.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.SearchTransaction.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Transaction.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.TransactionReportForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCard.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCardList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.InwardGatePass.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.OutwardGatePass.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.csproj.GenerateResource.Cache
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\RdlCompile.cache
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\RdlCompile.compiled
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.exe
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited02-01-2014\SciTechManagement\obj\Release\SciTechManagement.pdb
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\bin\Release\SciTechManagement.exe.config
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\bin\Release\SciTechManagement.exe
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\bin\Release\SciTechManagement.pdb
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Accounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.AddAccounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.AddTitle.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Admin.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.AttendanceForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Attendance.Attendance.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.CreateAccounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.CreateTitle.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.CRM.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.CustomerDetails.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.CustomerList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Database_Backup.DatabaseBackup.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.DeliveryReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.IGPReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Inventory.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.IGPList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.OGPList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.OrderdList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.OGPReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.OrderForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.OrderFormReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.PackageDetails.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.BonusAndCommision.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Department.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Employee.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.GrossSalary.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Properties.Resources.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.AboutSciTech.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.SearchTransaction.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Transaction.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.TransactionReportForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCard.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCardList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.InwardGatePass.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.OutwardGatePass.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.csproj.GenerateResource.Cache
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\RdlCompile.cache
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\RdlCompile.compiled
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.exe
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 13-01-2014\SciTechManagement\obj\Release\SciTechManagement.pdb
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\bin\Release\SciTechManagement.exe.config
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.exe
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.pdb
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\bin\Release\SciTechManagement.exe
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\bin\Release\SciTechManagement.pdb
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Accounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.AddAccounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.AddTitle.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Admin.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.AttendanceForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Attendance.Attendance.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CreateAccounts.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CreateTitle.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CRM.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CustomerDetails.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CustomerList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Database_Backup.DatabaseBackup.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.DeliveryReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.IGPReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Inventory.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.IGPList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.OGPList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.OrderdList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.OGPReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.OrderForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.OrderFormReport.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PackageDetails.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.BonusAndCommision.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Department.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Employee.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.GrossSalary.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Properties.Resources.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.AboutSciTech.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.SearchTransaction.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Transaction.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.TransactionReportForm.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCard.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCardList.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.InwardGatePass.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.OutwardGatePass.resources
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.csproj.GenerateResource.Cache
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\RdlCompile.cache
+C:\Users\BILAL\Desktop\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\RdlCompile.compiled
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.csprojAssemblyReference.cache
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Accounts.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.AddAccounts.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.AddTitle.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Admin.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.AttendanceForm.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Attendance.Attendance.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CreateAccounts.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CreateTitle.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CRM.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CustomerDetails.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.CustomerList.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Database_Backup.DatabaseBackup.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.DeliveryReport.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.IGPReport.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Inventory.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.IGPList.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.OGPList.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.List.OrderdList.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.OGPReport.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.OrderForm.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.OrderFormReport.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PackageDetails.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.BonusAndCommision.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Department.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.Employee.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.PayRoll.GrossSalary.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Properties.Resources.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.AboutSciTech.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.SearchTransaction.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Transaction.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.TransactionReportForm.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCard.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.DeliveryCardList.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.InwardGatePass.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.Warehouse.OutwardGatePass.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.csproj.GenerateResource.cache
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.exe
+C:\Users\bilal\Desktop\DOT NET PROJECTS\SciTechManagementbilalEdited 15-01-2014\SciTechManagement\obj\Release\SciTechManagement.pdb

@@ -1,0 +1,1 @@
+It contains three mandatory assignments related to websearch and data mining which were implemented using Python language

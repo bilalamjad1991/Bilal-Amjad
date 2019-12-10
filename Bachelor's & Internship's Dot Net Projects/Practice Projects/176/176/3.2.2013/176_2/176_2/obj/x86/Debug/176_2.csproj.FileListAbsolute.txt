@@ -1,0 +1,5 @@
+c:\users\shahid\documents\visual studio 2010\Projects\176_2\176_2\bin\Debug\176_2.exe
+c:\users\shahid\documents\visual studio 2010\Projects\176_2\176_2\bin\Debug\176_2.pdb
+c:\users\shahid\documents\visual studio 2010\Projects\176_2\176_2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shahid\documents\visual studio 2010\Projects\176_2\176_2\obj\x86\Debug\176_2.exe
+c:\users\shahid\documents\visual studio 2010\Projects\176_2\176_2\obj\x86\Debug\176_2.pdb

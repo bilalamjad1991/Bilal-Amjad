@@ -1,0 +1,5 @@
+1. On your local machine: Navigate to angular-seed/app dir, type the command "npm start" in command prompt, and hit enter to start the web application server on port 8000
+2. At UiS: On your local machine: Type "ssh -L 3000:pitter_leader_ip:3000 localhost -N" in command prompt and hit enter
+3. At home: On your local machine: Type "ssh -L 3000:badne7:3000 localhost -N" and on badne7 machine: Type "ssh -L 3000:pitter_leader_ip:3000 badne7 -N" in command prompt and hit enter
+4. On UiS servers: Navigate to lab6 dir and run "go ws_server.go" on three nodes
+5. Open browser on your local machine and type http://localhost:8000 and hit enter

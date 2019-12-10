@@ -1,0 +1,5 @@
+C:\Users\BILAL\documents\visual studio 2010\Projects\prac2\prac2\bin\Debug\prac2.exe
+C:\Users\BILAL\documents\visual studio 2010\Projects\prac2\prac2\bin\Debug\prac2.pdb
+C:\Users\BILAL\documents\visual studio 2010\Projects\prac2\prac2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\documents\visual studio 2010\Projects\prac2\prac2\obj\x86\Debug\prac2.exe
+C:\Users\BILAL\documents\visual studio 2010\Projects\prac2\prac2\obj\x86\Debug\prac2.pdb

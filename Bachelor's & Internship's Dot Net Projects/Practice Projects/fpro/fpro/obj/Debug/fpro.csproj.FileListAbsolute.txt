@@ -1,0 +1,5 @@
+C:\Users\BILAL\documents\visual studio 2010\Projects\fpro\fpro\bin\fpro.dll
+C:\Users\BILAL\documents\visual studio 2010\Projects\fpro\fpro\bin\fpro.pdb
+C:\Users\BILAL\documents\visual studio 2010\Projects\fpro\fpro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\documents\visual studio 2010\Projects\fpro\fpro\obj\Debug\fpro.dll
+C:\Users\BILAL\documents\visual studio 2010\Projects\fpro\fpro\obj\Debug\fpro.pdb

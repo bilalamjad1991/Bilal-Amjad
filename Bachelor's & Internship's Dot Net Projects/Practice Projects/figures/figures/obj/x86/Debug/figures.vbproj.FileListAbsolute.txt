@@ -1,0 +1,11 @@
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\bin\Debug\figures.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\bin\Debug\figures.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\bin\Debug\figures.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\obj\x86\Debug\figures.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\obj\x86\Debug\figures.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\figures\figures\obj\x86\Debug\figures.pdb

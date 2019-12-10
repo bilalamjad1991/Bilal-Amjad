@@ -1,0 +1,108 @@
+<div class="row bg-1">
+    <div class="col-sm-offset-2 col-sm-8">
+        <div class="alert alert-info">
+            <strong>WELCOME!</strong> {{login_user_name}}.  <br/>
+            Account #:{{account.account_num}} <br/>
+            Balance: {{account.balance}} 
+        </div>
+
+        <div class="alert alert-danger alert-dismissable" ng-show="show_error_alert">
+            <a class="close" data-dismiss="alert" aria-label="close">×</a>
+            <strong>Failed!</strong> {{error_message}}.
+        </div>
+        <div ng-show="show_success_alert" class="alert alert-success alert-dismissable">
+            <button type="button" class="close" data-ng-click="show_success_alert = false" aria-hidden="true">&times;</button>
+            <strong>Success!  </strong>{{success_message}}.
+        </div>
+        <ul class="nav container-txt nav-pills" id="txn_tabs">
+            <!-- <li class="active"><a id="balance_tab" data-target="#balance" data-toggle="tab">Balance</a></li> -->
+            <li><a data-target="#deposit" data-toggle="tab">Deposit</a></li>
+            <li><a data-target="#withdraw" data-toggle="tab">Withdraw</a></li>
+            <li><a data-target="#transfer" data-toggle="tab"> Transfer</a></li>
+            <li><a data-target="#txn_history" data-toggle="tab">Transaction Log</a></li>
+        </ul>
+        <div class="tab-content clearfix">
+            <!-- <div class="tab-pane active" id="balance">
+                <div class="well"><b>Balance:</b> {{account.balance}}</div>
+            </div> -->
+            <div class="tab-pane" id="deposit">
+                <div class="panel panel-info">
+                    <div class="panel-heading">Deposit Cash</div>
+                    <div class="panel-body">
+                        <form id="deposit-form" class="form-horizontal">
+                            <div class="form-group">
+                                <label class="control-label col-sm-2" for="deposit_amount">Amount</label>
+                                <div class="col-sm-10">
+                                    <input type="number" class="form-control" id="deposit_amount" placeholder="Enter Deposit Amount" ng-model="deposit.amount">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-sm-offset-2 col-sm-10">
+                                    <button type="submit" class="btn btn-primary" ng-click="DepositSubmit(deposit)">Confirm</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane" id="withdraw">
+                <div class="panel panel-info">
+                    <div class="panel-heading">Withdraw Cash</div>
+                    <div class="panel-body">
+                        <form id="withdraw-form" class="form-horizontal">
+
+                            <div class="form-group">
+                                <label class="control-label col-sm-2" for="withdraw_amount">Amount</label>
+                                <div class="col-sm-10">
+                                    <input type="number" class="form-control" id="withdraw_amount" placeholder="Enter Withdraw Amount" ng-model="withdraw.amount">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-sm-offset-2 col-sm-10">
+                                    <button type="submit" class="btn btn-primary" ng-click="WithdrawSubmit(withdraw)">Confirm</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane" id="transfer">
+                <div class="panel panel-info">
+                    <div class="panel-heading">Transfer Cash</div>
+                    <div class="panel-body">
+                        <form id="transfer-form" class="form-horizontal">
+                            <div class="form-group">
+                                <label class="control-label col-sm-2" for="transfer_account">Transfer To</label>
+                                <div class="col-sm-10">
+                                    <input type="number" class="form-control" id="transfer_account" placeholder="Enter Transfer to account number" ng-model="transfer.to_account_num">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label col-sm-2" for="transfer_amount">Amount</label>
+                                <div class="col-sm-10">
+                                    <input type="number" class="form-control" id="transfer_amount" placeholder="Enter Transfer Amount" ng-model="transfer.amount">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-sm-offset-2 col-sm-10">
+                                    <button type="submit" class="btn btn-primary" ng-click="TransferSubmit(transfer)">Confirm</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-pane" id="txn_history">
+                <div class="panel panel-info">
+                    <div class="panel-heading">Transaction History</div>
+                    <div class="panel-body">
+                        {{transaction_history}}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

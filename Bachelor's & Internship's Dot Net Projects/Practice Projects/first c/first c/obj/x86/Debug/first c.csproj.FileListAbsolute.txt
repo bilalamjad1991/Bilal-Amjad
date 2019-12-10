@@ -1,0 +1,5 @@
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first c\first c\bin\Debug\first c.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first c\first c\bin\Debug\first c.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first c\first c\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first c\first c\obj\x86\Debug\first c.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first c\first c\obj\x86\Debug\first c.pdb

@@ -1,0 +1,26 @@
+ Candidates
+
+CandidateID
+FirstName
+MiddleName
+LastName
+CellNumber
+LandLineNumber
+EmailAddress
+Tags
+----------------------------
+CandidatesCV
+CVID (PK)
+CandidateID (Fk)
+AppliedDate 
+CVPath (/CVS/CVName.doc)
+----------------------------
+Notes
+
+ID (PK)
+CandidateID (FK)
+Date
+Notes (text)
+------------------------------
+
+

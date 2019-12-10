@@ -1,0 +1,5 @@
+c:\users\bilal\documents\visual studio 2010\Projects\tepo\tepo\bin\tepo.dll
+c:\users\bilal\documents\visual studio 2010\Projects\tepo\tepo\bin\tepo.pdb
+c:\users\bilal\documents\visual studio 2010\Projects\tepo\tepo\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2010\Projects\tepo\tepo\obj\Debug\tepo.dll
+c:\users\bilal\documents\visual studio 2010\Projects\tepo\tepo\obj\Debug\tepo.pdb

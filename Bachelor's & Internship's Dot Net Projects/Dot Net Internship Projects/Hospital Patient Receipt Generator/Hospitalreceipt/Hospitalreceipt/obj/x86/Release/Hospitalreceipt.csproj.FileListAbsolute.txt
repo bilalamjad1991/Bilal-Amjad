@@ -1,0 +1,18 @@
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\bin\Release\PatientReceipt.accdb
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\bin\Release\Hospitalreceipt.exe
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\bin\Release\Hospitalreceipt.pdb
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.Form1.resources
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.Properties.Resources.resources
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.csproj.GenerateResource.Cache
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.exe
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.pdb
+C:\Users\WAQAR\Documents\Visual Studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.csprojResolveAssemblyReference.cache
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.exe
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.pdb
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\bin\Release\PatientReceipt.accdb
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\bin\Release\Hospitalreceipt.exe
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\bin\Release\Hospitalreceipt.pdb
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.csprojResolveAssemblyReference.cache
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.Form1.resources
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.Properties.Resources.resources
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Release\Hospitalreceipt.csproj.GenerateResource.Cache

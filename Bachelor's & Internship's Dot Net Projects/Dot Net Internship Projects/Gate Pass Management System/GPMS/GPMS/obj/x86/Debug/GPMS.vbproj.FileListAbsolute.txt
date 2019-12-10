@@ -1,0 +1,190 @@
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\bin\Debug\GPMS.exe.config
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.vbproj.ResolveComReference.cache
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.xml
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.pdb
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmDatabaseBackupRestore.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmInwardFind.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmInwardGatePass.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmDeliveryChallanFind.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmApprovedIndentFind.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmAllItemsShort.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmApproveIndent.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmChangePassword.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmDeliveryChallan.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmDepartments.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmIndent.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmIndentFind.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemCategories.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemDetail.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmItems.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemsAdd.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemUnits.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmLogin.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmMain.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmOutwardGatePass.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmOutwardGatePassFind.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmReport.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmSections.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmSendEmail.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmSplash.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmSRNFind.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmStoreReceiptNote.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmUsers1.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmVendors.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmSettings.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmLocationsReport.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemsReport.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.frmSuppliersReport.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.Resources.resources
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\bin\Debug\GPMS.exe
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\bin\Debug\GPMS.pdb
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\bin\Debug\GPMS.xml
+D:\Software\GatePass - 21 Dec 14 reporting 4.57\GPMS\GPMS\obj\x86\Debug\GPMS.exe
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\bin\Debug\GPMS.exe.config
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.vbproj.ResolveComReference.cache
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.exe
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.xml
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.pdb
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\bin\Debug\GPMS.exe
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\bin\Debug\GPMS.pdb
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\bin\Debug\GPMS.xml
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDatabaseBackupRestore.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmInwardFind.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmInwardGatePass.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDeliveryChallanFind.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmApprovedIndentFind.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmAllItemsShort.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmApproveIndent.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmChangePassword.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDeliveryChallan.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDepartments.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmIndent.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmIndentFind.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemCategories.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemDetail.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItems.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemsAdd.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemUnits.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmLogin.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmMain.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmOutwardGatePass.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmOutwardGatePassFind.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmReport.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSections.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSendEmail.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSplash.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSRNFind.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmStoreReceiptNote.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmUsers1.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmVendors.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSettings.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmLocationsReport.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemsReport.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSuppliersReport.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.Resources.resources
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Software\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\bin\Debug\GPMS.exe.config
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\bin\Debug\GPMS.exe
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\bin\Debug\GPMS.pdb
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\bin\Debug\GPMS.xml
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.vbproj.ResolveComReference.cache
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDatabaseBackupRestore.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmInwardFind.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmInwardGatePass.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDeliveryChallanFind.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmApprovedIndentFind.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmAllItemsShort.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmApproveIndent.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmChangePassword.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDeliveryChallan.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDepartments.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmIndent.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmIndentFind.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemCategories.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemDetail.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItems.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemsAdd.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemUnits.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmLogin.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmMain.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmOutwardGatePass.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmOutwardGatePassFind.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSections.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSendEmail.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSplash.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSRNFind.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmStoreReceiptNote.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmUsers1.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmVendors.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSettings.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDailyInwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDailyOutwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDateToDateInwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemWiseInwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmLocationsReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemsReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmSuppliersReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.Resources.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.vbproj.GenerateResource.Cache
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.exe
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.xml
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.pdb
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemWiseOutwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 23 Dec 14 reporting 4-21\GPMS\GPMS\obj\x86\Debug\GPMS.frmDateToDateOutwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\bin\Debug\GPMS.exe.config
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.vbproj.ResolveComReference.cache
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.exe
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.xml
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.pdb
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\bin\Debug\GPMS.exe
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\bin\Debug\GPMS.pdb
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\bin\Debug\GPMS.xml
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.vbprojResolveAssemblyReference.cache
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmDatabaseBackupRestore.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmInwardFind.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmInwardGatePass.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmDeliveryChallanFind.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmApprovedIndentFind.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmAllItemsShort.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmApproveIndent.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmChangePassword.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmDeliveryChallan.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmDepartments.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmIndent.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmIndentFind.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemCategories.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemDetail.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmItems.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemsAdd.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemUnits.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmLogin.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmMain.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmOutwardGatePass.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmOutwardGatePassFind.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmSections.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmSendEmail.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmSplash.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmSRNFind.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmStoreReceiptNote.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmUsers1.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmVendors.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmSettings.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmDailyInwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmDailyOutwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmDateToDateInwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmDateToDateOutwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemWiseInwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemWiseOutwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmLocationsReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmSupplierWiseInwardReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmItemsReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.frmSuppliersReport.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.Resources.resources
+C:\Users\BILAL\Desktop\GatePass - 27-12-2014\GPMS\GPMS\obj\x86\Debug\GPMS.vbproj.GenerateResource.Cache

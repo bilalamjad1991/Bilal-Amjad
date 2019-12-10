@@ -1,0 +1,46 @@
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\bin\Debug\Hospitalreceipt.exe
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\bin\Debug\Hospitalreceipt.pdb
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Form1.resources
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Properties.Resources.resources
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csproj.GenerateResource.Cache
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.exe
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.pdb
+c:\users\waqar\documents\visual studio 2010\Projects\Hospitalreceipt\Hospitalreceipt\bin\Debug\PatientReceipt.accdb
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.exe
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.pdb
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\bin\Debug\PatientReceipt.accdb
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\bin\Debug\Hospitalreceipt.exe.config
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\bin\Debug\Hospitalreceipt.exe
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\bin\Debug\Hospitalreceipt.pdb
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csprojResolveAssemblyReference.cache
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Form1.resources
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Properties.Resources.resources
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Report.resources
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csproj.GenerateResource.Cache
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\RdlCompile.cache
+C:\Users\BILAL\Desktop\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\RdlCompile.compiled
+F:\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csprojAssemblyReference.cache
+F:\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Form1.resources
+F:\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Properties.Resources.resources
+F:\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Report.resources
+F:\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csproj.GenerateResource.cache
+F:\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.exe
+F:\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.pdb
+C:\Users\bilal\Desktop\DOT NET PROJECTS\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csprojAssemblyReference.cache
+C:\Users\bilal\Desktop\DOT NET PROJECTS\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Form1.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Properties.Resources.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Report.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csproj.GenerateResource.cache
+C:\Users\bilal\Desktop\DOT NET PROJECTS\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.exe
+C:\Users\bilal\Desktop\DOT NET PROJECTS\hos\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.pdb
+C:\Users\bilal\Desktop\DOT NET PROJECTS\Dot Net Projects-Destino Submission\HospitalPatient ReceitGenerator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csprojAssemblyReference.cache
+C:\Users\bilal\Desktop\DOT NET PROJECTS\Dot Net Projects-Destino Submission\HospitalPatient ReceitGenerator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Form1.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\Dot Net Projects-Destino Submission\HospitalPatient ReceitGenerator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Properties.Resources.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\Dot Net Projects-Destino Submission\HospitalPatient ReceitGenerator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Report.resources
+C:\Users\bilal\Desktop\DOT NET PROJECTS\Dot Net Projects-Destino Submission\HospitalPatient ReceitGenerator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csproj.GenerateResource.cache
+C:\Users\bilal\Desktop\DOT NET PROJECTS\Dot Net Projects-Destino Submission\HospitalPatient ReceitGenerator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.exe
+C:\Users\bilal\Desktop\DOT NET PROJECTS\Dot Net Projects-Destino Submission\HospitalPatient ReceitGenerator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.pdb
+C:\Users\bilal\Desktop\Job Applications\If-NORDIC .NET TRAINEE\Dot Net Projects\Dot Net Internship Projects\Hospital Patient Receipt Generator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Form1.resources
+C:\Users\bilal\Desktop\Job Applications\If-NORDIC .NET TRAINEE\Dot Net Projects\Dot Net Internship Projects\Hospital Patient Receipt Generator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Properties.Resources.resources
+C:\Users\bilal\Desktop\Job Applications\If-NORDIC .NET TRAINEE\Dot Net Projects\Dot Net Internship Projects\Hospital Patient Receipt Generator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.Report.resources
+C:\Users\bilal\Desktop\Job Applications\If-NORDIC .NET TRAINEE\Dot Net Projects\Dot Net Internship Projects\Hospital Patient Receipt Generator\Hospitalreceipt\Hospitalreceipt\obj\x86\Debug\Hospitalreceipt.csproj.GenerateResource.cache

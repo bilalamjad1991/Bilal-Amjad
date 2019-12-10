@@ -1,0 +1,5 @@
+c:\users\bilal\documents\visual studio 2010\Projects\Pharmacy\Pharmacy\bin\Pharmacy.dll
+c:\users\bilal\documents\visual studio 2010\Projects\Pharmacy\Pharmacy\bin\Pharmacy.pdb
+c:\users\bilal\documents\visual studio 2010\Projects\Pharmacy\Pharmacy\obj\Debug\ResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2010\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.dll
+c:\users\bilal\documents\visual studio 2010\Projects\Pharmacy\Pharmacy\obj\Debug\Pharmacy.pdb

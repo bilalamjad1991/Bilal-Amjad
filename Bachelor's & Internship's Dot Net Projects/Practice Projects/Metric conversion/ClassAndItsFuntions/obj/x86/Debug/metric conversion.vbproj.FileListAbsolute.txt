@@ -1,0 +1,14 @@
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\obj\x86\Debug\ClassAndItsFuntions.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\obj\x86\Debug\ClassAndItsFuntions.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\obj\x86\Debug\ClassAndItsFuntions.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\bin\Debug\ClassAndItsFuntions.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\bin\Debug\ClassAndItsFuntions.pdb
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\bin\Debug\ClassAndItsFuntions.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\obj\x86\Debug\ClassAndItsFuntions.Form1.resources
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\obj\x86\Debug\ClassAndItsFuntions.Resources.resources
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\how to covert case study to VP using OOP (ClassAndItsFuntions)\ClassAndItsFuntions\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Metric conversion\ClassAndItsFuntions\obj\x86\Debug\ClassAndItsFuntions.exe
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Metric conversion\ClassAndItsFuntions\obj\x86\Debug\ClassAndItsFuntions.xml
+C:\Users\BILAL\Documents\Visual Studio 2010\Projects\Metric conversion\ClassAndItsFuntions\obj\x86\Debug\ClassAndItsFuntions.pdb

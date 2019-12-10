@@ -1,0 +1,12 @@
+c:\users\bilal amjad\documents\visual studio 2010\Projects\AlgoFirst\AlgoFirst\bin\Debug\AlgoFirst.exe
+c:\users\bilal amjad\documents\visual studio 2010\Projects\AlgoFirst\AlgoFirst\bin\Debug\AlgoFirst.pdb
+c:\users\bilal amjad\documents\visual studio 2010\Projects\AlgoFirst\AlgoFirst\obj\x86\Debug\AlgoFirst.exe
+c:\users\bilal amjad\documents\visual studio 2010\Projects\AlgoFirst\AlgoFirst\obj\x86\Debug\AlgoFirst.pdb
+C:\Users\Bilal Amjad\Documents\Visual Studio 2010\Projects\AlgoFirst\AlgoFirst\obj\x86\Debug\AlgoFirst.csprojResolveAssemblyReference.cache
+C:\Users\Bilal Amjad\Downloads\InsertionAnd MergeSortCode\AlgoFirst\AlgoFirst\obj\x86\Debug\AlgoFirst.exe
+C:\Users\Bilal Amjad\Downloads\InsertionAnd MergeSortCode\AlgoFirst\AlgoFirst\obj\x86\Debug\AlgoFirst.pdb
+C:\Users\bilal\Desktop\DOT NET PROJECTS\InsertionAnd MergeSortCode\AlgoFirst\AlgoFirst\bin\Debug\AlgoFirst.exe
+C:\Users\bilal\Desktop\DOT NET PROJECTS\InsertionAnd MergeSortCode\AlgoFirst\AlgoFirst\bin\Debug\AlgoFirst.pdb
+C:\Users\bilal\Desktop\DOT NET PROJECTS\InsertionAnd MergeSortCode\AlgoFirst\AlgoFirst\obj\x86\Debug\AlgoFirst.csprojAssemblyReference.cache
+C:\Users\bilal\Desktop\DOT NET PROJECTS\InsertionAnd MergeSortCode\AlgoFirst\AlgoFirst\obj\x86\Debug\AlgoFirst.exe
+C:\Users\bilal\Desktop\DOT NET PROJECTS\InsertionAnd MergeSortCode\AlgoFirst\AlgoFirst\obj\x86\Debug\AlgoFirst.pdb
