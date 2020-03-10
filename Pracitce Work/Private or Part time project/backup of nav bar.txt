@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>VISMA</title>
+<meta name ="viewport" content ="width=device-width, initial-scale=1">
+<style>
+body{
+	background:white;
+	margin:0;
+}
+.menu{
+	width:100%;
+	background:#142b47;
+	overflow: auto;
+}
+.menu ul {
+	<!-- margin-left:300px; -->
+	margin:0;
+	padding:0;
+	list-style:none;
+	line-height:60px;
+}
+.menu li{
+	float:left;
+	
+}
+.menu ul li a{
+	background:#142b47;
+	text-decoration:none;
+	width:130px;
+	display:block;
+	text-align:center;
+	color:#f2f2f2;
+	font-size:18px;
+	font-family:sans-serif;
+	letter-spacing:0.5px;
+}
+.menu li a:hover{
+	color:#fff;
+	opacity:0.5;
+	font-size:19px;
+}
+.search-form{
+	margin-top:15px;
+	float:right;
+	margin-right:100px;
+}
+input[type=text]{
+	padding:7px;
+	border:none;
+	font-size:16px;
+	font-family:sans-serif;
+}
+button{
+	float:right;
+	background:orange;
+	color:white;
+	border-radius:0 5px 5px 0;
+	cursor:pointer;
+	position:relative;
+	padding:7px;
+	font-family:sans-serif;
+	border:none;
+	font-size:16px;
+}
+</style>
+</head>
+
+<body>
+<img src="\visma logo.png" width="250" height="100">
+<nav class="menu">
+
+    <ul>
+	<li><a href="#"> Home</a></li>
+	<li><a href="#"> Gallery</a></li>
+	<li><a href="#"> Event</a></li>
+	<li><a href="#"> Feedback</a></li>
+	<li><a href="#"> About</a></li>
+	<li><a href="#"> Contact</a></li>
+	</ul>
+	
+	<form class ="search-form">
+	<input type ="text" placeholder ="Search">
+    <button> Search</button>
+
+	</form>
+</nav>
+</body>
+</html>
