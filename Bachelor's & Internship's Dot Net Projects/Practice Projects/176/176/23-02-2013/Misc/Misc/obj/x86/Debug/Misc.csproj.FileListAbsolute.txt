@@ -1,7 +1,0 @@
-c:\users\shahid\documents\visual studio 2010\Projects\Misc\Misc\bin\Debug\Misc.exe
-c:\users\shahid\documents\visual studio 2010\Projects\Misc\Misc\bin\Debug\Misc.pdb
-c:\users\shahid\documents\visual studio 2010\Projects\Misc\Misc\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\shahid\documents\visual studio 2010\Projects\Misc\Misc\obj\x86\Debug\Misc.exe
-c:\users\shahid\documents\visual studio 2010\Projects\Misc\Misc\obj\x86\Debug\Misc.pdb
-C:\Users\BILAL\Documents\Visual Studio 2010\Projects\176\176\23-02-2013\Misc\Misc\obj\x86\Debug\Misc.exe
-C:\Users\BILAL\Documents\Visual Studio 2010\Projects\176\176\23-02-2013\Misc\Misc\obj\x86\Debug\Misc.pdb

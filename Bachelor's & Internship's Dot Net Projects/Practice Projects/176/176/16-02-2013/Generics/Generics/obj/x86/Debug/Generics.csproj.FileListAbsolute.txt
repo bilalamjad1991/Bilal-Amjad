@@ -1,5 +1,0 @@
-c:\users\shahid\documents\visual studio 2010\Projects\Generics\Generics\bin\Debug\Generics.exe
-c:\users\shahid\documents\visual studio 2010\Projects\Generics\Generics\bin\Debug\Generics.pdb
-c:\users\shahid\documents\visual studio 2010\Projects\Generics\Generics\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\shahid\documents\visual studio 2010\Projects\Generics\Generics\obj\x86\Debug\Generics.exe
-c:\users\shahid\documents\visual studio 2010\Projects\Generics\Generics\obj\x86\Debug\Generics.pdb

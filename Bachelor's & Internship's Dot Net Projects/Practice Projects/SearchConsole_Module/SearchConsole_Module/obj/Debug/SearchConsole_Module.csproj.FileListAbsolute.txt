@@ -1,5 +1,0 @@
-c:\users\bilal\documents\visual studio 2010\Projects\SearchConsole_Module\SearchConsole_Module\bin\SearchConsole_Module.dll
-c:\users\bilal\documents\visual studio 2010\Projects\SearchConsole_Module\SearchConsole_Module\bin\SearchConsole_Module.pdb
-c:\users\bilal\documents\visual studio 2010\Projects\SearchConsole_Module\SearchConsole_Module\obj\Debug\ResolveAssemblyReference.cache
-c:\users\bilal\documents\visual studio 2010\Projects\SearchConsole_Module\SearchConsole_Module\obj\Debug\SearchConsole_Module.dll
-c:\users\bilal\documents\visual studio 2010\Projects\SearchConsole_Module\SearchConsole_Module\obj\Debug\SearchConsole_Module.pdb

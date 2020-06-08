@@ -1,5 +1,0 @@
-c:\users\bilal\documents\visual studio 2010\Projects\Proviads\Proviads\bin\Proviads.dll
-c:\users\bilal\documents\visual studio 2010\Projects\Proviads\Proviads\bin\Proviads.pdb
-c:\users\bilal\documents\visual studio 2010\Projects\Proviads\Proviads\obj\Debug\ResolveAssemblyReference.cache
-c:\users\bilal\documents\visual studio 2010\Projects\Proviads\Proviads\obj\Debug\Proviads.dll
-c:\users\bilal\documents\visual studio 2010\Projects\Proviads\Proviads\obj\Debug\Proviads.pdb

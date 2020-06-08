@@ -1,1 +1,0 @@
-These are my practice projects based on ASP.NET, VB.NET and C#

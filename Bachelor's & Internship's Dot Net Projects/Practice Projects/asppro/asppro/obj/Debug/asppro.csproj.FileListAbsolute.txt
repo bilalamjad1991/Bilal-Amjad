@@ -1,5 +1,0 @@
-c:\users\bilal\documents\visual studio 2010\Projects\asppro\asppro\bin\asppro.dll
-c:\users\bilal\documents\visual studio 2010\Projects\asppro\asppro\bin\asppro.pdb
-c:\users\bilal\documents\visual studio 2010\Projects\asppro\asppro\obj\Debug\ResolveAssemblyReference.cache
-c:\users\bilal\documents\visual studio 2010\Projects\asppro\asppro\obj\Debug\asppro.dll
-c:\users\bilal\documents\visual studio 2010\Projects\asppro\asppro\obj\Debug\asppro.pdb

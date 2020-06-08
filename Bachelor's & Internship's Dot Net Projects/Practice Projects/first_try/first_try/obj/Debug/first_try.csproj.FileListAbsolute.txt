@@ -1,5 +1,0 @@
-C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first_try\first_try\bin\first_try.dll
-C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first_try\first_try\bin\first_try.pdb
-C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first_try\first_try\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first_try\first_try\obj\Debug\first_try.dll
-C:\Users\BILAL\Documents\Visual Studio 2010\Projects\first_try\first_try\obj\Debug\first_try.pdb
